@@ -1,0 +1,9 @@
+{
+  "name": "quiz-board",
+  "version": "1.0.0",
+  "description": "Engineering quiz app with Node.js backend and leaderboard",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
